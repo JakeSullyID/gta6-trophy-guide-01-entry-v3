@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LEONIDA TROPHY GUIDE</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="app-header">
+  <div class="header-top">
+    <h1 class="display-title">LEONIDA TROPHY GUIDE</h1>
+    <div class="header-chips" id="header-chips">
+      <!-- Dynamically rendered header chips -->
+    </div>
+  </div>
+  <p class="subtitle" id="subtitle">55 trophies: 1 platinum, 2 gold, 6 silver, 46 bronze, 0 online — all offline single-player</p>
+  <div class="progress-container">
+    <div class="progress-bar-track">
+      <div class="progress-bar-fill" id="progress-bar-fill"></div>
+    </div>
+    <span class="progress-text" id="progress-text">0 of 55 earned (0%)</span>
+  </div>
+  <div class="kind-counts" id="kind-counts">
+    <!-- Per-kind mini-counts -->
+  </div>
+</header>
+
+<nav class="tab-nav">
+  <button type="button" id="tab-checklist" class="tab-btn active" data-tab="checklist">Checklist</button>
+  <button type="button" id="tab-roadmap" class="tab-btn" data-tab="roadmap">Roadmap</button>
+  <button type="button" id="tab-missables" class="tab-btn" data-tab="missables">Missables</button>
+  <button type="button" id="tab-sources" class="tab-btn" data-tab="sources">Sources</button>
+</nav>
+
+<main class="app-main">
+  <!-- Checklist Tab Section -->
+  <section id="section-checklist" class="tab-section active">
+    <div id="audit-strip" class="audit-strip">
+      <!-- Audit strip computed chips -->
+    </div>
+    <div class="toolbar">
+      <input type="text" id="search" placeholder="Search trophies…" autocomplete="off">
+      <select id="kind-filter">
+        <option value="all">All kinds</option>
+        <option value="story">Story</option>
+        <option value="missable">Missable</option>
+        <option value="collectible">Collectible</option>
+        <option value="activity">Activity</option>
+        <option value="platinum">Platinum</option>
+        <option value="online">Online</option>
+      </select>
+      <select id="grade-filter">
+        <option value="all">All grades</option>
+        <option value="platinum">Platinum</option>
+        <option value="gold">Gold</option>
+        <option value="silver">Silver</option>
+        <option value="bronze">Bronze</option>
+      </select>
+      <label class="checkbox-label">
+        <input type="checkbox" id="earned-only"> Earned only
+      </label>
+      <button type="button" id="spoiler-toggle">Spoiler shield: off</button>
+      <button type="button" id="export-btn">Export</button>
+      <label class="import-label" title="Import progress JSON">
+        Import
+        <input type="file" id="import-input" accept="application/json">
+      </label>
+    </div>
+    <div class="checklist-layout">
+      <ul id="trophy-list" class="trophy-list"></ul>
+      <aside id="detail-pane" class="detail-pane">
+        <div class="detail-placeholder">Select a trophy from the list to view its guide, steps, and sources.</div>
+      </aside>
+    </div>
+  </section>
+
+  <!-- Roadmap Tab Section -->
+  <section id="section-roadmap" class="tab-section">
+    <div id="roadmap-container"></div>
+  </section>
+
+  <!-- Missables Tab Section -->
+  <section id="section-missables" class="tab-section">
+    <div id="missables-container"></div>
+  </section>
+
+  <!-- Sources Tab Section -->
+  <section id="section-sources" class="tab-section">
+    <div id="sources-container"></div>
+  </section>
+</main>
+
+<script type="module" src="app.js"></script>
+<script type="module" src="shots.js"></script>
+</body>
+</html>
