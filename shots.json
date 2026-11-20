@@ -1,0 +1,34 @@
+[
+  {
+    "file": "1-cover.jpg",
+    "path": "/?shot=cover",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    }
+  },
+  {
+    "file": "2-roadmap.jpg",
+    "path": "/?shot=roadmap",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    }
+  },
+  {
+    "file": "3-missables.jpg",
+    "path": "/?shot=missables",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    }
+  },
+  {
+    "file": "4-spoiler.jpg",
+    "path": "/?shot=spoiler",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    }
+  }
+]
