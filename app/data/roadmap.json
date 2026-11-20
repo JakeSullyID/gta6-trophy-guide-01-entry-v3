@@ -1,0 +1,167 @@
+{
+  "title": "Road to the Platinum",
+  "difficulty": "4/10",
+  "hours": "about 200 hours",
+  "playthroughs": "1 playthrough, no DLC or multiplayer required",
+  "sources": [
+    {
+      "name": "Exophase",
+      "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+      "covers": "the official name, description and grade of every trophy."
+    },
+    {
+      "name": "PSNProfiles",
+      "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi",
+      "covers": "the official list and progress count."
+    },
+    {
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+      "covers": "methods, roadmap order, missable note, counts."
+    },
+    {
+      "name": "GTAVibes",
+      "url": "https://www.gtavibes.com/guides/gta-6-trophy-list-achievements",
+      "covers": "story mission names, the one missable trophy, the roadmap, cheat warning."
+    },
+    {
+      "name": "KeenGamer",
+      "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/",
+      "covers": "roadmap, detailed 100% tables, per-trophy methods."
+    },
+    {
+      "name": "GTABase",
+      "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series",
+      "covers": "roadmap, missable flag, 100% numbers, per-trophy tips."
+    },
+    {
+      "name": "GTAScoop",
+      "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/",
+      "covers": "per-trophy methods, the one missable trophy, the still-unconfirmed methods."
+    },
+    {
+      "name": "HowToVideoGame",
+      "url": "https://howtovideogame.com/gta-6-trophies/",
+      "covers": "the official list with descriptions, hidden-trophy descriptions, challenge counts."
+    }
+  ],
+  "stages": [
+    {
+      "number": 1,
+      "title": "Play the story",
+      "hours": "60 to 80 hours",
+      "summary": "Play Chapters 1 through 5 in order while experiencing the narrative campaign of Leonida. Make sure to perform the Chapter 1 balcony meditation for Positive Mental Attitude while available, and keep manual saves at each chapter start and end because mission replay is absent. Cheats disable both trophies and saving progress.",
+      "trophy_names": [
+        "Just Like Paradise",
+        "Paradise Lost",
+        "T**s Ass Drug Money",
+        "Vice City, Baby!",
+        "Top Of The World, Ma",
+        "You Gotta Know When to Get Off",
+        "Trust",
+        "Break the Bank",
+        "Family Matters",
+        "DWNFALL",
+        "Hi-Jacked",
+        "Snow Storm",
+        "Baited My Tackle",
+        "Stick Fiddler",
+        "Whip It Good",
+        "Treat Yo Self"
+      ],
+      "tip": "Always maintain rotating manual saves at chapter boundaries."
+    },
+    {
+      "number": 2,
+      "title": "Robberies & wanted",
+      "hours": "about 20 hours",
+      "summary": "Tackle bank vaults, armored transport trucks, gang operations, and partner store robberies across the map. Focus on losing high wanted levels and successfully laundering marked cash bills through safehouses.",
+      "trophy_names": [
+        "Hot Together",
+        "Retail Therapy",
+        "Gunslinger",
+        "Catch Me If You Can",
+        "Challenging Tank",
+        "Sneakthief",
+        "Maximum Withdrawal",
+        "A Classic Blitz Play",
+        "Pest Control",
+        "Dime on the Dollar"
+      ],
+      "tip": "Plan your escape routes before initiating bank vaults and store hold-ups."
+    },
+    {
+      "number": 3,
+      "title": "Races, ranges & stunts",
+      "hours": "about 25 hours",
+      "summary": "Master stunt jumps across Leonida, earn gold medals at shooting ranges, win drone and street races, and complete side activity challenges.",
+      "trophy_names": [
+        "Cunning Stunts",
+        "Master of None",
+        "The Shootist",
+        "Top Fun",
+        "Earn Cash, Not Kudos",
+        "One Last Thing"
+      ],
+      "tip": "Upgrade handling and braking on vehicles before tackling advanced stunt jumps."
+    },
+    {
+      "number": 4,
+      "title": "Collectibles & map",
+      "hours": "about 15 hours",
+      "summary": "Collect playing card sets, scan WAiNK locations, explore all 52 distinct map regions, and register vehicles into your personal garages.",
+      "trophy_names": [
+        "Don't Touch My Deck",
+        "You WAiNKer!",
+        "The Goodtime State",
+        "Little Boxes",
+        "On the Spot"
+      ],
+      "tip": "Use in-game radar markers and companion maps to track regional exploration."
+    },
+    {
+      "number": 5,
+      "title": "A Long Road — the 100% checklist",
+      "hours": "about 100 hours",
+      "summary": "After completing the main story, open the pause menu under Progress, then Stats, and finally 100% Completion. Work methodically through 100 optional missions, 200 of 277 vehicles, 100 of 255 animals, 300 stunt jumps, 70 of 80 challenges, all robberies, bank vaults, gang operations, Target Decks, meditations, card sets, and WAiNK locations. Nothing on this tracker is missable, and prior stages feed directly into this completion requirement.",
+      "trophy_names": [
+        "A Long Road"
+      ],
+      "tip": "Check off activities systematically using the in-game progress tracker."
+    },
+    {
+      "number": 6,
+      "title": "Strangers & character quests",
+      "hours": "about 10 hours",
+      "summary": "Complete all 8 stranger strands and character questlines featuring Andy, Kenton, Billy, Randy, Tyrone, and Bret, then mop up remaining open world activities.",
+      "trophy_names": [
+        "Road to Rehabilitation",
+        "This Was No Boat Accident",
+        "The Lone Rider",
+        "Strangers & Freaks",
+        "Supply & Demand",
+        "Spin On This!",
+        "Fair Game"
+      ],
+      "tip": "Check map markers regularly between story acts for newly spawned stranger encounters."
+    },
+    {
+      "number": 7,
+      "title": "Cleanup & the unconfirmed",
+      "hours": "about 5 hours",
+      "summary": "Finish any missed early achievements like Positive Mental Attitude, uncover hidden trophies with published methods, complete stat grinds, and address the two trophies awaiting fully confirmed community trigger methods.",
+      "trophy_names": [
+        "Positive Mental Attitude",
+        "In The Beginning…",
+        "Capital Offense",
+        "Let’s Go Bowling",
+        "Personal Best",
+        "Actions Speak Louder",
+        "Bad Luck, I Guess",
+        "The Truth Is Out There",
+        "Ten Pin"
+      ],
+      "tip": "Tackle the missable balcony meditation early in Chapter 1 to avoid a full replay."
+    }
+  ]
+}
